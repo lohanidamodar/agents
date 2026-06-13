@@ -466,6 +466,9 @@ Before finishing, check:
 Use this section only when the coding environment supports subagents or parallel
 agents. For small tasks, a single agent can do the work directly.
 
+For medium or large projects, this section can be replaced or extended with the
+full companion playbook in `flutter_multi_agent.md`.
+
 Recommended roles:
 
 | Role | Responsibility |
